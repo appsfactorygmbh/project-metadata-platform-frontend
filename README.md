@@ -1,3 +1,5 @@
+This project was archived on the 02.09.2025. A new Repository was created that combines both the Frontend and the backend of the "Project Metadata Platform". It can be found here: https://github.com/appsfactorygmbh/project-metadata-platform
+
 # Appsfactory "Metadata Platform" Frontend
 
 ## Overview
